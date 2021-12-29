@@ -1,0 +1,26 @@
+{
+  "name": "nodewithmongo",
+  "version": "1.0.0",
+  "description": "demo for crud operation in mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hellodevi/Nodewithmongo.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hellodevi/Nodewithmongo/issues"
+  },
+  "homepage": "https://github.com/hellodevi/Nodewithmongo#readme",
+  "dependencies": {
+    "mongodb": "^4.2.2"
+  }
+}
